@@ -1,1 +1,2 @@
 # 3D_card
+I developed a captivating 3D card scroller showcasing iconic Indian cricketers using a dynamic blend of HTML, CSS, and JavaScript. This interactive web application seamlessly scrolls through a curated collection of cricket legends. Each card presents a 3D rendering of a cricketer, providing a visually engaging experience for users. Through fluid animations and smooth transitions, cricket enthusiasts can explore the rich history of Indian cricket in a visually appealing and user-friendly manner, all achieved within the magic of web development.
